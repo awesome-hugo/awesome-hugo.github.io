@@ -1,5 +1,5 @@
-# awesome-hugo.github.io
- A curated list of awesome Hugo
+# Awesome Hugo Theme
+ A curated list of Awesome built with Hugo Theme + GitHub Actions + GitHub Pages.
 
 - [No Theme](https://awesome-hugo.github.io/hugo-no-theme/) - Using Hugo without theme. Author: [Sardorbek Imomaliev](https://github.com/imomaliev/blog)
 - [PaperMod](https://awesome-hugo.github.io/PaperMod/) - A fast, clean, responsive Hugo theme. Author: [Aditya Telange](https://github.com/adityatelange/hugo-PaperMod)
